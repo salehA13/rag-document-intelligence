@@ -1,6 +1,9 @@
 <p align="center">
   <h1 align="center">🔍 RAG Document Intelligence</h1>
   <p align="center">
+    <img src="https://github.com/salehA13/rag-document-intelligence/actions/workflows/ci.yml/badge.svg" alt="CI">
+  </p>
+  <p align="center">
     Production-grade Retrieval-Augmented Generation system with hybrid semantic + keyword search and re-ranking
   </p>
 </p>
